@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\jonthan\source\geo\geo\defines.h(8): warning C4305: "Initialisierung": Verkürzung von "double" in "geo::real"
+  Geo.vcxproj -> C:\Users\Jonthan\Source\Geo\Debug\Geo.exe
+  Geo.vcxproj -> C:\Users\Jonthan\Source\Geo\Debug\Geo.pdb (Partial PDB)
